@@ -1,0 +1,14 @@
+{
+    "cameraOffset": [-150, -200],
+    "barColor": [91, 122, 140],
+    "characters": [
+        {
+            "name": "teambluronbrownshaggy",
+            "positionOffset": [0,0]
+        },
+        {
+            "name": "blueengi",
+            "positionOffset": [-350,40]
+        }
+    ]
+}

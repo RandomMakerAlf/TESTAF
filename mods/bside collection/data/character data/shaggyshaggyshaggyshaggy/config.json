@@ -1,0 +1,22 @@
+{
+    "cameraOffset": [-150, -200],
+    "barColor": [0, 125, 0],
+    "characters": [
+        {
+            "name": "bspshaggy",
+            "positionOffset": [0,20]
+        },
+        {
+            "name": "bspredshaggy",
+            "positionOffset": [-200,0]
+        },
+        {
+            "name": "bspblueshaggy",
+            "positionOffset": [-400,0]
+        },
+        {
+            "name": "bspyellowshaggy",
+            "positionOffset": [-600,0]
+        }
+    ]
+}

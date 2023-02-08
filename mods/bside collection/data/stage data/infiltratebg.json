@@ -1,0 +1,95 @@
+{
+	"character_Scrolls": [
+		0.95,
+		0.95,
+		0.95
+	],
+	"character_Positions": [
+		[
+			1304,
+			407
+		],
+		[
+			35,
+			267
+		],
+		[
+			1581,
+			-1360
+		]
+	],
+	"objects": [
+		{
+			"is_Animated": false,
+			"position": [
+				-553,
+				-200
+			],
+			"scroll_Factor": [
+				0.0499999999999997,
+				0.0499999999999997
+			],
+			"antialiased": true,
+			"scale": 1.3,
+			"file_Name": "sky",
+			"alpha": 1
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-1581,
+				-450
+			],
+			"scroll_Factor": [
+				0.75,
+				0.75
+			],
+			"antialiased": true,
+			"scale": 2,
+			"file_Name": "sand"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-1869,
+				-375
+			],
+			"scroll_Factor": [
+				0.95,
+				0.95
+			],
+			"antialiased": true,
+			"scale": 2,
+			"file_Name": "road"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				612,
+				78
+			],
+			"scroll_Factor": [
+				0.95,
+				0.95
+			],
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "gfcar"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-1543,
+				-290
+			],
+			"scroll_Factor": [
+				0.95,
+				0.95
+			],
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "shaggytruck"
+		}
+	],
+	"camera_Zoom": 0.7
+}

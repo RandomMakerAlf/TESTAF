@@ -1,0 +1,45 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": true,
+    "imagePath": "blue engineer",
+    "spritesheetType": "SPARROW",
+    "barColor": [51, 166, 255],
+    "animations": [
+        {
+            "name": "danceLeft",
+            "animation_name": "idle",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "danceRight",
+            "animation_name": "alt idle",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "left",
+            "fps": 28,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "down",
+            "fps": 28,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "up",
+            "fps": 28,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "right",
+            "fps": 28,
+            "looped": false
+        }
+    ]
+}
